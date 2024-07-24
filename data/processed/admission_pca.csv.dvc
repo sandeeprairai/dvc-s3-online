@@ -1,0 +1,5 @@
+outs:
+- md5: 6dddd5b381e806a634d88ec7cdde5e96
+  size: 17684
+  hash: md5
+  path: admission_pca.csv
